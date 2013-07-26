@@ -1,0 +1,25 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: FileSetDateTime.zip
+       Short Description: very simple touch-like app (sets file date/time)
+        Long Description: Sets the date/time of a file.  Very simple.  Does not take wildcards.  Supports long filenames.  No beeps, pauses, etc.  Includes source code.
+
+      Proposed directory
+           for placement: /pub/os2/util/disk
+
+               Your name: Stephane Charette
+           Email address: charette@writeme.com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://charette.dyn.tj/
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 v3+
+ Additional requirements:
+
+                Replaces: (none)
+
